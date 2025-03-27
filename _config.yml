@@ -5,7 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
  Trinity College Dublin
   <br><br>
-  <https://www.linkedin.com/in/juliane-wesselmann-75b5591b8/> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
