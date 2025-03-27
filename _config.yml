@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Juliane Wesselmann # your name (or website title) here
+logo: "/images/Portrait PhD.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  PhD Candidate Political Science Department 
   <br><br>
-  Second description 
+ Trinity College Dublin
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <https://www.linkedin.com/in/juliane-wesselmann-75b5591b8/> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
